@@ -1,0 +1,13 @@
+{
+    "tempalteDir": "/template/",
+    "fileType": [
+        {
+            "suffix": "\\.(js)|(go)|(cpp)|(c)|(m)|(mm)|(h)$",
+            "prefix": "//"
+        },
+        {
+            "suffix": "\\.(py)|(sh)$",
+            "prefix": "#"
+        }
+    ]
+}

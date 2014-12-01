@@ -1,6 +1,6 @@
 {
     "name":"anti-bug",
-    "version":"1.0.0",
+    "version":"0.1.1",
     "description":"Pray for the best but prepare for the worst, how about getting some praying prepared for your code?",
     "author":{
         "name":"Leoc O'Cear",
@@ -10,12 +10,13 @@
     "license":"CC-BY-SA-4.0",
     "repository":{
         "type":"git",
-        "url":"https://github.com/paincompiler/antibug.js.git"
+        "url":"https://github.com/paincompiler/Anti-Bug.js.git"
     },
     "bugs":{
-        "url":"https://github.com/paincompiler/antibug.js/issues"
+        "url":"https://github.com/paincompiler/Anti-Bug.js/issues"
     },
-    "homepage":"https://github.com/paincompiler/antibug.js",
+    "githubURL":"https://github.com/paincompiler/Anti-Bug.js",
+    "homepage":"http://paincompiler.github.io/Anti-Bug.js",
     "main":"anti-bug.js",
     "bin":{
         "anti-bug.js":"anti-bug.js"
