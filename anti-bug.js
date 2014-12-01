@@ -100,11 +100,11 @@ function fileProcessor() {
                     });
 
                     var currentPraysContent = new Buffer(lineArr.join("\n") + "\n");
-                    process.stdout.write(" " + filePath + "...");
+                    process.stdout.write("Generating:" + filePath + "......");
                     var finalResult = buffer.concat([currentPraysContent, data]);
                     fs.unlinkSync(filePath);
                     fs.writeFileSync(filePath, finalResult)
-                    process.stdout.write("done\r\n");
+                    process.stdout.write("Complete\r\n");
                 });
             } else {
                 console.log("Target file(s) not exist :" + filePath);
