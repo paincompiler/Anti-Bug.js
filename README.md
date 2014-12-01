@@ -50,7 +50,7 @@ Feel free to send pull request to upload the template file (UTF-8) you want to s
 
 ### License
 
-This project is licensed under the MIT license.
+This project is licensed under the [CC-BY-SA-4.0](http://opensource.org/licenses/CC-BY-SA-4.0)  license.
 
 Copyright (c) 2014 Leoc Xu
 

@@ -1,6 +1,6 @@
 {
     "name":"anti-bug",
-    "version":"0.1.1",
+    "version":"0.1.3",
     "description":"Pray for the best but prepare for the worst, how about getting some praying prepared for your code?",
     "author":{
         "name":"Leoc O'Cear",
@@ -19,7 +19,7 @@
     "homepage":"http://paincompiler.github.io/Anti-Bug.js",
     "main":"anti-bug.js",
     "bin":{
-        "anti-bug.js":"anti-bug.js"
+        "anti-bug":"anti-bug.js"
     },
     "scripts":{
 

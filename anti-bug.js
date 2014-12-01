@@ -1,4 +1,4 @@
-'use strict'
+#!/usr/bin/env node
 
 var fs = require("fs"),
     path = require("path"),
@@ -142,7 +142,7 @@ function manCommand(manIndex) {
             	console.log("==========================================================================================================================");
                 console.log("Welcome to Anti-Bug.js!");
                 console.log("You can add some magic pray words or pray pictures to the head of your code file(s) simply.");
-                console.log("More infomation, please visit : \n\n ");
+                console.log("More infomation, please visit : \n\n    " + packageInfo.homepage);
                 console.log("\nusage :\n    anti-bug templateName fileA [fileB] ...          Add prays to file(s)");
                 console.log("    anti-bug templateName dirName                    Add prays to file(s) in the directory");
                 console.log("    anti-bug man                                     Check the manual for help");
