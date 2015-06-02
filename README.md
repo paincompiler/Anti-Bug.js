@@ -44,7 +44,7 @@ For example:
 ```
 #anti-bug Buddha ./js
 ```
-You can check the supported file types in [config.json](https://github.com/paincompiler/Anti-Bug.js/tree/master/config.js) and the available templates in directory [template](https://github.com/paincompiler/Anti-Bug.js/tree/master/template).
+You can check the supported file types in [config.json](https://github.com/paincompiler/Anti-Bug.js/blob/master/config.json) and the available templates in directory [template](https://github.com/paincompiler/Anti-Bug.js/tree/master/template).
 
 Feel free to send pull request to upload the template file (UTF-8) you want to share and set more supported file types!
 
